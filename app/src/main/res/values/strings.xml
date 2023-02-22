@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M6_hw1</string>
+    <string name="hand_over">Hand over</string>
+    <string name="enter_text">Enter text</string>
+    <string name="get">get</string>
+    <string name="the_text_is_empty_enter_the_text">The text is empty, enter the text</string>
+</resources>
